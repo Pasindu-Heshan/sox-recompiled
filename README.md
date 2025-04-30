@@ -76,4 +76,3 @@ Found issues or improvements? Open an issue or PR! Contributions are welcome.
 ## License
 
 This repository distributes a custom-built SoX 14.4.2 binary, licensed under the [GNU GPL](https://www.gnu.org/licenses/gpl-3.0.html) and [LGPL](https://www.gnu.org/licenses/lgpl-2.1.html) per SoX’s terms. See `LICENSE.GPL.txt` and `LICENSE.LGPL.txt` in the SoX source for details.
-```
